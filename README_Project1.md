@@ -1,4 +1,4 @@
-### Project_CHD
+### CHD_Project1
 
 ### Project name : Advent of machine learning in predicting heart disease 
 
